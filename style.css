@@ -1,0 +1,15 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* COMMON */
+.text-length {
+    padding: 20px 0;
+}
+
+.text-length span {
+    background-color: rgb(241, 241, 156);
+}
